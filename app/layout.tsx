@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 import { cvData } from "@/lib/data";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://jacobkotzee-cv.vercel.app"),
   title: {
     default: `${cvData.personal.name} | ${cvData.personal.title}`,
     template: `%s | ${cvData.personal.name}`,
