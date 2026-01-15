@@ -8,7 +8,7 @@ export const cvData = {
         linkedin: "https://www.linkedin.com/in/jacobkotzee/",
         github: "https://github.com/jakwakwa/",
         website: "https://www.jacofrontend.dev/",
-        relocation: "Committed to relocating to the Netherlands immediately."
+        relocation: ""
     },
     summary: "Senior Front-End Engineer with over 12 years of experience in the digital landscape, evolving from high-fidelity UI design to complex software engineering. I specialize in building scalable, high-performance web applications using React.js, Next.js, and TypeScript. My background spans FinTech and Enterprise SaaS, where I have successfully delivered secure payment flows and accessible, high-traffic user interfaces.",
     coreCompetencies: [
